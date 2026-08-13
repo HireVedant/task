@@ -1,3 +1,5 @@
+#ifndef REPOSITORY_MANAGER_H
+#define REPOSITORY_MANAGER_H
 #include <string>
 
 // Manages the .vcs/ repository directory: initialization and path lookups.
