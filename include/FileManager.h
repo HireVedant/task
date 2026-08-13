@@ -3,7 +3,8 @@
 
 #include <string>
 #include <filesystem>
-
+#include <iostream>
+#include <vector>
 namespace fs = std::filesystem;
 
 // Stateless utility class for file I/O, hashing, and ignore-pattern matching.
